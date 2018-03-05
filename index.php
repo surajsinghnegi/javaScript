@@ -2,5 +2,6 @@
 
 echo "hi";
 echo "bye";
+echo "ho";
  ?>
 
